@@ -1,2 +1,2 @@
 # subtitles_downloader
-a simple Python subtitles downloader using the OpenSubtitles API
+This script allows you to download English subtitles for a given movie name using the OpenSubtitles API.
